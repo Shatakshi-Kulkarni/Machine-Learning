@@ -45,7 +45,7 @@ Machine learning enables a machine to automatically learn from data, improve per
 -> Supervised Learning
 > **Regression:**
   - Linear:
-  - Logistic: -[Logistic Regression](https://github.com/)
+  - Logistic: -[Logistic Regression](https://github.com/Shatakshi-Kulkarni/Machine_Learning/tree/my-new-branch/Logistic%20Regression)
   - Stepwise:
   - Ridge:
   - Lasso:
